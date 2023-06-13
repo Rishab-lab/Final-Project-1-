@@ -12,7 +12,6 @@ import { FaInfoCircle } from "react-icons/fa";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { NavLink } from "react-router-dom";
 import { Avatar } from "@mui/material";
-import { faAlignLeft } from "@fortawesome/free-solid-svg-icons";
 import logo from '../images/logo.jpeg';
 
 
